@@ -1,0 +1,27 @@
+﻿.header {
+    text-align: center;
+    color: darkslateblue;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.h1{
+    font-weight: bold;
+    margin-top: 35px;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid gray;
+    padding: 15px;
+    font-size: 22px;
+    text-align: center;
+}
+
+table th {
+    background-color: darkslateblue;
+    color: white;
+}
